@@ -1,0 +1,23 @@
+.crypto-card{
+      background-color: #000000;
+      margin-right: 15px;
+      margin-bottom: 15px;
+      height: 300px;
+      width: 300px;
+      border-radius: 5px;
+}
+.icon{
+      height: 50px;
+      width: 50px;
+      margin-bottom: 5px;
+}
+.crpto-name{
+      color: orange;
+      font-size: 16px;
+      font-weight: 600;
+}
+@media screen and (max-width: 768px){
+      .crypto-card{
+            margin-right: 0;
+      }
+}
